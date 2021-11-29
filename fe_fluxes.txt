@@ -1,0 +1,7 @@
+Mesocosm_ID	O2_conc	treatment	avg_flux	sd_flux
+1	280	control	70.9	1.7
+1	280	Nereis	0.0	0.0
+4	106	control	131.4	21.1
+4	106	Nereis	13.4	2.7
+3	48	control	38.1	1.5
+3	48	Nereis	17.5	1.8

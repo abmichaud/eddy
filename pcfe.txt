@@ -1,0 +1,22 @@
+meso	treatment	core	int_pcfe	int_avs
+initial	sieve	a	411.5	
+initial	sieve	b	264.1	
+initial	sieve	c	427.6	
+one	nereis	a	421.5	17.5
+one	nereis	b	481.5	17.9
+one	nereis	c	502.7	21.2
+one	control	a	488.1	18
+one	control	b	469.5	14.8
+one	control	c	476.1	8.2
+three	nereis	a	363	12.7
+three	nereis	b	338.5	26.5
+three	nereis	c	353.8	43.9
+three	control	a	308.4	18.6
+three	control	b	283.9	31.2
+three	control	c	330.5	27.2
+four	nereis	a	267.8	28.8
+four	nereis	b	272.4	29.8
+four	nereis	c	240.7	26.3
+four	control	a	227.2	26.1
+four	control	b	220	26.6
+four	control	c	218.3	29.6
